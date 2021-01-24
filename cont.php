@@ -8,6 +8,14 @@
     <title>Document</title>
 </head>
 <body>
+    <nav>
+      <ul>
+        <li><a href="index.html">home</a></li>
+        <li> <a href="rphys.html">physical rescources</a></li>
+        <li><a href="rment.html">mental rescources</a></li>
+        <li><a href="loc.html">hospitals</a></li>
+      </ul>
+    </nav>
     <div class="row">
         <div class="col-md-6 " id="form_container">
             <h2>Contact Us</h2>
