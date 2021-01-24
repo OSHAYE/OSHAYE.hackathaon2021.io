@@ -17,32 +17,31 @@ nav li {
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
+  
 }
-nav ul{
-   position: sticky;
+nav li a:hover {
+  background-color: #73AD21 ;
 }
 
  ul {
-  
   list-style-type: none;
-  text-align: left;
 }
 li{
   text-align: center;
 }
+
+
 .groups li {
-  float: right;
-  width: 300px;
-  border: 3px solid #73AD21;
-  padding: 10px;
- padding-top: 30px;
- height: 100px;
- width: 100px;
- border-radius: 100%;
- border-color: rgb(32, 209, 32);
-text-align:center;
-align-content: center;
-background-color: black;
+  position:relative;
+  height: 100px;
+  width: 100px;
+  display: table-cell;
+  text-align: center;
+  vertical-align: middle;
+  float : center;
+  border-radius: 50%; /* may require vendor prefixes */
+  background: black;
+  transform: translatex(400%) ;
 
 }
   body{
@@ -55,7 +54,23 @@ background-color: black;
     text-align:center;
 }
  
-.frames{
-float :right;
-position: static;;
+#gr{
+  border: #73AD21 3px solid;
+  float: center;
+}
+#ic{
+  border: #c4b811 3px solid;
+ /* padding: left 30px ;*/
+}
+#rg{
+  border: blue  3px solid;
+
+}
+#de{
+  border: #d40c0c 3px solid;
+
+}
+#pe{
+  border: #fa66b8 3px solid;
+
 }
