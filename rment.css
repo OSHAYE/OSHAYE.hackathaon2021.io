@@ -1,0 +1,50 @@
+nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+nav li {
+  float: left;
+}
+
+ nav li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+nav ul{
+   position: sticky;
+}
+
+ ul {
+  
+  list-style-type: none;
+  text-align: left;
+}
+
+.groups li {
+  float: right;
+  width: 300px;
+  border: 3px solid #73AD21;
+  padding: 10px;
+ padding-top: 30px;
+ height: 100px;
+ width: 100px;
+ border-radius: 100%;
+ border-color: rgb(32, 209, 32);
+text-align:center;
+align-content: center;
+
+}
+body{
+  background-image: url("./background.jpg");
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
