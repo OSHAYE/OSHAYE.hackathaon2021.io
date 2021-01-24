@@ -27,12 +27,12 @@
                     <div class="col-sm-6 form-group">
                         <label for="name">
                             Name:</label>
-                        <input type="text" class="form-control" id="name" name="name" required>
+                        <input type="text" class="form-control" id="name" name="name" required size="32">
                     </div>
                     <div class="col-sm-6 form-group">
                         <label for="email">
                             Email:</label>
-                        <input type="email" class="form-control" id="email" name="email" required>
+                        <input type="email" class="form-control" id="email" name="email" required size="32">
                     </div>
                 </div>
                 <div class="row">
