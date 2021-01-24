@@ -5,6 +5,34 @@
 	background: rgba(0,0,0,0.5);	
 	color:#fff;
 }
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: rgba(0,0,0,0.4);
+  }
+  
+li {
+    float: left;
+}
+  
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+li a:hover {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    background-color: blueviolet;
+  }
+
 body
 {
 	background-image: linear-gradient(to bottom right, skyblue, violet);
