@@ -10,6 +10,13 @@ body
 	background-image: linear-gradient(to bottom right, skyblue, violet);
 	background-size: cover;
 	background-repeat:no-repeat;
+	background-image: url("./background.jpg");
+  	-webkit-background-size: cover;
+  	-moz-background-size: cover;
+  	-o-background-size: cover;
+  	background-size: cover;
+  	color: white;
+  	text-align:center;
 
 }
 .upload-btn-wrapper 
