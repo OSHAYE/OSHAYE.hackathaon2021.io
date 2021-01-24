@@ -2,7 +2,7 @@
 {
 	padding:15px 15px;
 	margin-top:15px;
-	background: rgba(0,0,0,0.5);	
+ 	background-image: linear-gradient( to left, rgba(123, 37, 234, 0.18), rgba(111, 0, 255, 0.616), rgba(111, 0, 255, 0.384), rgba(156, 89, 243, 0) );
 	color:#fff;
 }
 ul {
@@ -35,7 +35,6 @@ li a:hover {
 
 body
 {
-	background-image: linear-gradient(to bottom right, skyblue, violet);
 	background-size: cover;
 	background-repeat:no-repeat;
 	background-image: url("./background.jpg");
