@@ -7,8 +7,7 @@
 }
 body
 {
-	background-color: #000;
-	background-image: url("images/stduio-2035349_1280.jpg");
+	background-image: linear-gradient(to bottom right, skyblue, violet);
 	background-size: cover;
 	background-repeat:no-repeat;
 
@@ -28,4 +27,11 @@ body
   top: 0;
   opacity: 0;
 }
-
+.btn{
+	background: #B9DFFF;
+	color: #fff;
+	border: 1px solid #eee;
+	border-radius: 20px;
+	box-shadow: 5px 5px 5px #eee;
+	text-shadow:none;
+}
