@@ -1,3 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+#head{
+  font-family: 'Pacifico', cursive;
+}
 nav ul {
   list-style-type: none;
   margin: 0;

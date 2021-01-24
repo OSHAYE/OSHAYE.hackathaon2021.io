@@ -1,3 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+#head{
+  font-family: 'Pacifico', cursive;
+}
 ul {
     list-style-type: none;
     margin: 0;
@@ -26,5 +30,11 @@ ul {
     color: white;
   }
   body{
-      color: black;
-  }
+    background-image: url("./background.jpg");
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    color: white;
+    text-align:center;
+}
