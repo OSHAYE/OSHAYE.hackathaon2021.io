@@ -1,5 +1,17 @@
 # OSHAYE.hackathaon2021.io
 
+<p>&nbsp;</p>
+
+![Screencast from 05-08-2021 01 51 50 AM](https://user-images.githubusercontent.com/72441280/117505083-2331e500-afa1-11eb-88cb-6ebccf0b4968.gif)
+
+<p>&nbsp;</p>
+
+<div align="center">
+  <img src="http://ForTheBadge.com/images/badges/uses-html.svg">
+  <img src="http://ForTheBadge.com/images/badges/uses-css.svg">
+  <img src="http://ForTheBadge.com/images/badges/uses-js.svg">
+</div>
+
 <div align="center">
 
 <h1>Inspiration</h1>
