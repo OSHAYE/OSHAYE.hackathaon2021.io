@@ -13,6 +13,14 @@
 </div>
 
 <div align="center">
+  <img src="https://img.shields.io/badge/WEBSITE-ONLINE-blue.svg">
+</div>
+
+<div align="center">
+  <a href="https://cranky-torvalds-28bafd.netlify.app" target="_blank"><img src="https://img.shields.io/badge/DEPLOY WITH-NETLIFY-blue.svg"></a>
+</div>
+
+<div align="center">
 
 <h1>Inspiration</h1>
 <p>We wanted to build a product that would help users navigate Covid 19 with ease.</p>
