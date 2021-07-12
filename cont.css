@@ -17,11 +17,9 @@ ul {
     overflow: hidden;
     background-color: rgba(0,0,0,0.4);
   }
-  
 li {
     float: left;
 }
-  
 li a {
     display: block;
     color: white;
@@ -37,7 +35,6 @@ li a:hover {
     text-decoration: none;
     background-color: blueviolet;
   }
-
 body
 {
 	background-size: cover;
